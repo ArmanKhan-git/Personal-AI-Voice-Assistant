@@ -1,0 +1,23 @@
+# Speech Recognition
+SpeechRecognition==3.10.1
+pyaudio==0.2.14
+
+# Text-to-Speech
+edge-tts==6.1.9
+pygame==2.5.2
+
+# Google Generative AI (Gemini)
+google-generativeai==0.3.2
+
+# System and Process Control
+psutil==5.9.8
+pyautogui==0.9.54
+keyboard==0.13.5
+pywin32==306
+
+# Web Automation
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.1
+
