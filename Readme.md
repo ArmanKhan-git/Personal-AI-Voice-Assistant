@@ -171,8 +171,8 @@ Simply speak naturally to JARVIS for:
 User: "Hey Jarvis"
 JARVIS: "Yes sir, I'm online now"
 
-User: "Play Bohemian Rhapsody on Spotify"
-JARVIS: "Playing Bohemian Rhapsody on Spotify"
+User: "Play Boyfriend by Karan Aujla on Spotify"
+JARVIS: "Playing Boyfriend by Karan Aujla on Spotify"
 
 User: "Search YouTube for Python tutorials"
 JARVIS: "Here are the YouTube results for Python tutorials"
