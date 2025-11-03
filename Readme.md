@@ -290,25 +290,3 @@ jarvis-assistant/
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** - For powerful conversational AI
-- **Microsoft Edge TTS** - For natural text-to-speech
-- **Spotify** - For music streaming integration
-- **Python Community** - For amazing libraries
-
----
-
-## 💡 Inspiration
-
-Inspired by Tony Stark's JARVIS from the Marvel Cinematic Universe - bringing AI assistance to everyday computing.
-
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
----
-
-**Made with ❤️ and Python**
